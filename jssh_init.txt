@@ -1,0 +1,181 @@
+new host 10.0.32.5      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.6      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.10     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.11     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.15     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.16     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.30     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.31     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.40     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.41     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.45     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.46     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.48     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.49     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.50     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.51     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.53     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.54     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.55     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.56     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.58     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.59     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.65     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.66     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.80     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.81     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.82     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.83     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.84     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.85     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.86     22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.87     22 sshusr HWgqpt@sshusr_8 root HWgqpt@HMS8
+new host 10.0.32.88     22 sshusr HWgqpt@sshusr_9 root HWgqpt@HMS9
+new host 10.0.37.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.38.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.39.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.40.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.40.5      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.41.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.42.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.43.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.43.5      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.43.6      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.43.7      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.44.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.45.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.45.5      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.46.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.47.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.36.4      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.36.5      22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.100    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.101    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.102    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.103    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.104    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.32.105    22 sshusr STjdfxiache root STjdfxiache
+new host 123.147.203.90 22 root STjdfxiache
+new host 123.147.203.91 22 root STjdfxiache
+new host 123.147.203.93 22 sshusr STjdfxiache root STjdfxiache
+new host 123.147.203.94 22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.47.5    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.35.4    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.35.5    22 sshusr STjdfxiache root STjdfxiache
+new host 10.0.44.5    22 sshusr STjdfxiache root STjdfxiache
+comment host 10.0.32.5 cimp1
+comment host 10.0.32.6 cimp2
+comment host 10.0.32.10 CMS1
+comment host 10.0.32.11 CMS2
+comment host 10.0.32.15 UBSS1
+comment host 10.0.32.16 UBSS2
+comment host 10.0.32.30 MDN1/CMI/MC/MM
+comment host 10.0.32.31 MDN2/CMI/MC/MM
+comment host 10.0.32.40 MGMT1 
+comment host 10.0.32.41 MGMT2 
+comment host 10.0.32.45 RRS1 
+comment host 10.0.32.46 RRS2 
+comment host 10.0.32.48 UM1
+comment host 10.0.32.49 UM2
+comment host 10.0.32.50 EDS1 
+comment host 10.0.32.51 EDS2 
+comment host 10.0.32.53 EDS3 
+comment host 10.0.32.54 EDS4 
+comment host 10.0.32.55 ACS1 
+comment host 10.0.32.56 ACS2 
+comment host 10.0.32.58 ACS3 
+comment host 10.0.32.59 ACS4 
+comment host 10.0.32.60 I2000 
+comment host 10.0.32.65 Report1
+comment host 10.0.32.66 Report2
+comment host 10.0.32.80  HMS1
+comment host 10.0.32.81  HMS2
+comment host 10.0.32.82  HMS3
+comment host 10.0.32.83  HMS4
+comment host 10.0.32.84  HMS5
+comment host 10.0.32.85  HMS6
+comment host 10.0.32.86  HMS7
+comment host 10.0.32.87  HMS8
+comment host 10.0.32.88  HMS9
+comment host 10.0.37.4 SPB
+comment host 10.0.38.4 JLP
+comment host 10.0.39.4 BBXQ
+comment host 10.0.40.4 JB
+comment host 10.0.40.5 JB
+comment host 10.0.41.4 NP
+comment host 10.0.42.4 YZ
+comment host 10.0.43.4 YC
+comment host 10.0.43.5 YC,not use
+comment host 10.0.43.6 YC,not use
+comment host 10.0.43.7 YC,not use
+comment host 10.0.44.4 WZPQ
+comment host 10.0.44.5 WZPQ
+comment host 10.0.45.4 WZ
+comment host 10.0.45.5 WZ
+comment host 10.0.46.4 YB
+comment host 10.0.47.4 FLPQ
+comment host 10.0.47.5 FLPQ
+comment host 10.0.36.4 FL
+comment host 10.0.36.5 FL
+comment host 10.0.35.4 ZhuChengPianQu  
+comment host 10.0.35.5 ZhuChengPianQu  
+comment host 10.0.32.100 EPG1 
+comment host 10.0.32.101 EPG2 
+comment host 10.0.32.102 EPG3 
+comment host 10.0.32.103 EPG4 
+comment host 10.0.32.104 MEM1 
+comment host 10.0.32.105 MEM2 
+comment host 123.147.203.90 MRF5 
+comment host 123.147.203.91 MRF6 
+comment host 123.147.203.93 MRF7 
+comment host 123.147.203.94 MRF8
+new groups MDN MEM cimp cms UBSS rpt slb hacs oracle
+groups MDN
+new groups HMS UM RRS MRF mdn
+groups MEM
+new groups EPG EDS ACS mem mgmt
+groups HMS
+new groups byHMS zxHMS
+groups byHMS
+join_hosts 10.0.35.4 10.0.35.5 10.0.36.4 10.0.36.5 
+join_hosts 10.0.37.4 10.0.38.4 10.0.39.4 10.0.40.4 10.0.40.5 
+join_hosts 10.0.41.4 10.0.42.4 10.0.43.4 10.0.43.5 10.0.43.6 10.0.43.7 
+join_hosts 10.0.44.4 10.0.44.5 10.0.45.4 10.0.45.5 
+join_hosts 10.0.46.4 
+join_hosts 10.0.47.4 10.0.47.5 
+groups zxHMS
+join_hosts 10.0.32.80 10.0.32.81 10.0.32.82 10.0.32.83 10.0.32.84 10.0.32.85 10.0.32.86 10.0.32.87 10.0.32.88
+groups RRS
+join_hosts 10.0.32.45 10.0.32.46
+groups UM
+join_hosts 10.0.32.48 10.0.32.49
+groups EDS
+join_hosts 10.0.32.50 10.0.32.51 10.0.32.53 10.0.32.54
+groups ACS
+join_hosts 10.0.32.55 10.0.32.56 10.0.32.58 10.0.32.59
+groups EPG
+join_hosts 10.0.32.100 10.0.32.101 10.0.32.102 10.0.32.103
+groups rpt
+join_hosts 10.0.32.65 10.0.32.66
+groups mem
+join_hosts 10.0.32.104 10.0.32.105
+groups MRF
+join_hosts 123.147.203.90 123.147.203.91 123.147.203.93 123.147.203.94
+groups mdn
+join_hosts 10.0.32.30 10.0.32.31
+groups mgmt
+join_hosts 10.0.32.40 10.0.32.41
+groups cimp
+join_hosts 10.0.32.5 10.0.32.6
+groups cms
+join_hosts 10.0.32.10 10.0.32.11
+groups UBSS
+join_hosts 10.0.32.15 10.0.32.16
+
+
+groups slb
+join_hosts 10.0.32.45 10.0.32.54 10.0.32.66 10.0.32.53 10.0.32.51 10.0.32.50 10.0.32.59 10.0.32.55 10.0.32.46 10.0.32.58 10.0.32.56 
+groups hacs 
+join_hosts 10.0.32.10  10.0.32.11  10.0.32.15  10.0.32.16  10.0.32.56  10.0.32.58  123.147.203.90  10.0.32.46  10.0.32.55  10.0.32.30  10.0.32.59  10.0.32.5  123.147.203.91  10.0.32.31  10.0.32.50  10.0.32.6  123.147.203.93  123.147.203.94  10.0.32.40  10.0.32.51  10.0.32.41  10.0.32.53  10.0.32.54  10.0.32.45 
+groups oracle
+join_hosts 10.0.32.5  10.0.32.6  10.0.32.30  10.0.32.31  10.0.32.40  10.0.32.41  10.0.32.65  10.0.32.10  10.0.32.11  10.0.32.15  10.0.32.16  10.0.32.60  10.0.32.104 
