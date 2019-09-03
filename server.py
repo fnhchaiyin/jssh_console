@@ -18,26 +18,21 @@ class server(object):
     def connect(self):
         if not self.connect_status:
             try:
-                self.host=pexpect.spawn("ssh "+self.username+"@"+self.ip+' -p '+self.port)
-                ex=self.host.expect(['(.*?)[>|#|$]','[P|p]assword:','(.*?)yes/no(.*?)'])
+                self.host=pexpect.spawn("ssh -o StrictHostKeyChecking=no "+self.username+"@"+self.ip+' -p '+self.port)
+                ex=self.host.expect(['(.*?)[>|#|$]','[P|p]assword:'])
                 if ex == 0:
                     self.connect_status = True
                 elif ex == 1:
                     self.host.sendline(self.password)
                     if not self.host.expect('(.*?)[>|#|$]'):
                         self.connect_status=True
-                elif ex==2:
-                    self.host.sendline('yes')
-                    self.host.sendline (self.password)
-                    if not self.host.expect ('(.*?)[>|#|$]'):
-                        self.connect_status = True
                 else:
                     self.err='Login Failed!'
                 if self.connect_status:
                     self.host.sendline('unset TMOUT')
                 if self.susername:
                     self.host.sendline("LANG=;su - " + self.susername)
-                    if not self.host.expect('[P|p]assword:'):
+                    if not self.host.expect('(.*?)[P|p]assword(.*?):'):
                         self.host.sendline(self.spassword)
                         if self.host.expect('(.*?)#'):
                             self.err='Change to super user failed!'
