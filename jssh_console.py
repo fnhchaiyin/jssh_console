@@ -804,7 +804,7 @@ if __name__=='__main__':
     host_cmd=['connect','disconnect','console','info']
     comment_cmd=['group','host']
     is_login = False
-    db_file=os.path.join(sys.path[0],'jssh_console.db')
+    db_file=os.path.join(sys.path[0],'db','jssh_console.db')
     if not os.path.exists(db_file):
         init_db()
         is_login=True
