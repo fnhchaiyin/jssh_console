@@ -762,7 +762,7 @@ def clear_log(ri):
 def exp_log(ri):
     file=open(ri[1],'wb')
     for i in gl.jssh['log']:
-        file.write(i+'\n')
+        file.write(str(i)+'\n')
     file.close()
 def server_2_json(d):
     if type(d)==type(server()):
